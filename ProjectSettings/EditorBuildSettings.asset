@@ -5,9 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/VR.unity
+  - enabled: 0
+    path: Assets/Scenes/KnifeThrow.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/ARTGallery.unity
+    guid: 16497155ef9968e498b91b6f08995140
+  - enabled: 1
+    path: Assets/Scenes/VrSandbox.unity
+    guid: 82cf3a948c24c1d48b5487d7b1597867
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 492aa9e07ee65a8428962231a72a5a5b, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: abc72dec99e7fab48bc74d56111eac45, type: 2}
